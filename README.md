@@ -94,71 +94,26 @@ I build practical systems around high-concurrency backend services, LLM applicat
   <img src="https://img.shields.io/badge/WebSocket-Realtime-009688?style=flat-square" alt="WebSocket" />
 </p>
 
-## Experience
+## Contribution Snake
 
-**Backend Developer Intern** · Cybersecurity Lab
+<div align="center">
 
-- Designed risk-control logic for a multi-platform security portal, using vulnerability fingerprinting to identify duplicate submissions and abnormal scoring behavior.
-- Reworked ranking queries with **Redis ZSet + incremental score updates**, improving leaderboard query latency and reducing full-table scans.
-- Integrated unified authentication flow to support shared login state across multiple systems.
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/zhaozhixuan-code/zhaozhixuan-code/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/zhaozhixuan-code/zhaozhixuan-code/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/zhaozhixuan-code/zhaozhixuan-code/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>AI 零代码应用生成平台</strong>
-      <br />
-      <br />
-      An AI no-code web app generation platform. Users describe requirements in natural language, and AI Agents handle material collection, code generation, quality checks, builds, and deployment-ready output.
-      <br />
-      <br />
-      <code>Spring Cloud Alibaba</code>
-      <code>Spring Boot 3</code>
-      <code>LangChain4j</code>
-      <code>LangGraph4j</code>
-      <code>Dubbo</code>
-      <code>Higress</code>
-      <br />
-      <br />
-      Focus: model routing, AI code generation, Redisson token-bucket rate limiting, model-cost optimization, and Java 21 virtual-thread async processing.
-    </td>
-    <td width="50%">
-      <strong><a href="https://github.com/zhaozhixuan-code/zzx-picture">智联云图</a></strong>
-      <br />
-      <br />
-      An intelligent image management platform with public galleries, private spaces, team collaboration, multi-dimensional search, and AI image generation / expansion features.
-      <br />
-      <br />
-      <code>Spring Boot</code>
-      <code>Redis</code>
-      <code>WebSocket</code>
-      <code>Sa-Token</code>
-      <code>Caffeine</code>
-      <code>ShardingSphere</code>
-      <br />
-      <br />
-      Focus: upload pipeline refactoring, Redis + Caffeine multi-level cache, database index optimization, realtime collaborative editing, and edit-lock conflict control.
-    </td>
-  </tr>
-</table>
-
-## Highlights
-
-<table>
-  <tr>
-    <td>蓝桥杯全国三等奖</td>
-    <td>码蹄杯省赛银奖</td>
-  </tr>
-  <tr>
-    <td>计算机能力挑战赛华中赛区二等奖</td>
-    <td>睿抗机器人开发大赛省赛三等奖</td>
-  </tr>
-  <tr>
-    <td>PAT 计算机能力测评乙级（前 25%）</td>
-    <td>JLPT N2</td>
-  </tr>
-</table>
+</div>
 
 ## GitHub Metrics
 
