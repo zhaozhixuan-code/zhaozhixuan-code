@@ -1,44 +1,198 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi%2C+I'm+Zhao+Zhixuan.;An+AI+Full-Stack+Developer.;Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2F80ED,100:00C9A7&text=Zhao%20Zhixuan&fontColor=ffffff&fontAlign=50&fontAlignY=36&fontSize=42&desc=Java%20Backend%20%7C%20AI%20Application%20%7C%20LLM%20Agent&descAlign=50&descAlignY=58"
+    alt="Profile Header"
+  />
+
+  <h1>Zhao Zhixuan</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=760&lines=Java+Backend+%26+AI+Application+Developer;Spring+Cloud+%2B+LLM+Agent+Builder;Building+reliable+AI-native+web+systems"
+      alt="Typing SVG"
+    />
+  </a>
+
   <p>
-    <code>👋 zhaozhixuan-code</code>
-    <code>📍 China</code>
-    <code>🤖 AI Application Builder</code>
+    <img src="https://img.shields.io/badge/GitHub-zhaozhixuan--code-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend" />
+    <img src="https://img.shields.io/badge/AI-Applications-2F80ED?style=for-the-badge" alt="AI Applications" />
+    <img src="https://img.shields.io/badge/CS-Undergraduate-00A1E9?style=for-the-badge" alt="Computer Science Undergraduate" />
   </p>
+
+  <p>
+    <code>Spring Boot</code>
+    <code>Spring Cloud Alibaba</code>
+    <code>Spring AI</code>
+    <code>LangChain4j</code>
+    <code>RAG</code>
+    <code>Redis</code>
+    <code>RabbitMQ</code>
+  </p>
+
+  <p>
+    <code>河南理工大学 · 计算机科学与技术</code>
+    <code>2023 - 2027</code>
+  </p>
+
 </div>
 
 ---
-### Hi there 👋
-I'm Zhao Zhixuan, a developer focusing on **Full-Stack Development** & **AI / LLM Application**.
 
-## About Me
-- 🤖 AI enthusiast: LLM, RAG, Multimodal, Model fine-tuning & NLP
-- 💻 Full-stack developer: Frontend / Backend / Desktop & Application development
-- 📖 Always learning, exploring new tech and keeping curiosity
-- 🚀 Building simple, practical products from complex ideas
-- 📫 GitHub: [zhaozhixuan-code](https://github.com/zhaozhixuan-code)
+## About
 
-> Code with logic, build with passion.
+I'm **Zhao Zhixuan**, a Computer Science undergraduate focused on **Java backend engineering** and **AI application development**.
+
+I build practical systems around high-concurrency backend services, LLM application frameworks, RAG workflows, and AI Agent product experiences.
 
 <table>
   <tr>
-    <td><img src="/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td width="50%">
+      <strong>Backend Engineering</strong>
+      <br />
+      Spring Boot / Spring Cloud Alibaba, microservices, caching, messaging, authentication, rate limiting, and performance optimization.
+    </td>
+    <td width="50%">
+      <strong>AI Application Engineering</strong>
+      <br />
+      LangChain4j, Spring AI, RAG, Tool Calling, MCP, structured output, model routing, and agent workflow orchestration.
+    </td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="/github-metrics/base.svg" alt="base" /></td>
-    <td><img src="/github-metrics/activity.svg" alt="activity" /></td>
-  </tr>
-  <tr>
-    <td><img src="/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td width="50%">
+      <strong>System Performance</strong>
+      <br />
+      Redis ZSet ranking, Redis + Caffeine multi-level cache, Redisson token-bucket limiting, MySQL index optimization, and ShardingSphere.
+    </td>
+    <td width="50%">
+      <strong>Engineering Tools</strong>
+      <br />
+      Git, Docker, Postman, Cursor, Codex, and AI-assisted development workflows.
+    </td>
   </tr>
 </table>
+
+## Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,docker,git,postman,vue,js&perline=10" alt="Tech Stack" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Cloud%20Alibaba-Backend-6DB33F?style=flat-square" alt="Spring Cloud Alibaba" />
+  <img src="https://img.shields.io/badge/LangChain4j-LLM%20Application-2F80ED?style=flat-square" alt="LangChain4j" />
+  <img src="https://img.shields.io/badge/LangGraph4j-Agent%20Workflow-7B61FF?style=flat-square" alt="LangGraph4j" />
+  <img src="https://img.shields.io/badge/Dubbo-RPC-CB3837?style=flat-square" alt="Dubbo" />
+  <img src="https://img.shields.io/badge/Higress-Gateway-00A1E9?style=flat-square" alt="Higress" />
+  <img src="https://img.shields.io/badge/ShardingSphere-Database-4169E1?style=flat-square" alt="ShardingSphere" />
+  <img src="https://img.shields.io/badge/Caffeine-Local%20Cache-8A2BE2?style=flat-square" alt="Caffeine" />
+  <img src="https://img.shields.io/badge/Sa--Token-Auth-FF6F00?style=flat-square" alt="Sa-Token" />
+  <img src="https://img.shields.io/badge/WebSocket-Realtime-009688?style=flat-square" alt="WebSocket" />
+</p>
+
+## Experience
+
+**Backend Developer Intern** · Cybersecurity Lab
+
+- Designed risk-control logic for a multi-platform security portal, using vulnerability fingerprinting to identify duplicate submissions and abnormal scoring behavior.
+- Reworked ranking queries with **Redis ZSet + incremental score updates**, improving leaderboard query latency and reducing full-table scans.
+- Integrated unified authentication flow to support shared login state across multiple systems.
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>AI 零代码应用生成平台</strong>
+      <br />
+      <br />
+      An AI no-code web app generation platform. Users describe requirements in natural language, and AI Agents handle material collection, code generation, quality checks, builds, and deployment-ready output.
+      <br />
+      <br />
+      <code>Spring Cloud Alibaba</code>
+      <code>Spring Boot 3</code>
+      <code>LangChain4j</code>
+      <code>LangGraph4j</code>
+      <code>Dubbo</code>
+      <code>Higress</code>
+      <br />
+      <br />
+      Focus: model routing, AI code generation, Redisson token-bucket rate limiting, model-cost optimization, and Java 21 virtual-thread async processing.
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/zhaozhixuan-code/zzx-picture">智联云图</a></strong>
+      <br />
+      <br />
+      An intelligent image management platform with public galleries, private spaces, team collaboration, multi-dimensional search, and AI image generation / expansion features.
+      <br />
+      <br />
+      <code>Spring Boot</code>
+      <code>Redis</code>
+      <code>WebSocket</code>
+      <code>Sa-Token</code>
+      <code>Caffeine</code>
+      <code>ShardingSphere</code>
+      <br />
+      <br />
+      Focus: upload pipeline refactoring, Redis + Caffeine multi-level cache, database index optimization, realtime collaborative editing, and edit-lock conflict control.
+    </td>
+  </tr>
+</table>
+
+## Highlights
+
+<table>
+  <tr>
+    <td>蓝桥杯全国三等奖</td>
+    <td>码蹄杯省赛银奖</td>
+  </tr>
+  <tr>
+    <td>计算机能力挑战赛华中赛区二等奖</td>
+    <td>睿抗机器人开发大赛省赛三等奖</td>
+  </tr>
+  <tr>
+    <td>PAT 计算机能力测评乙级（前 25%）</td>
+    <td>JLPT N2</td>
+  </tr>
+</table>
+
+## GitHub Metrics
+
+<div align="center">
+  <img src="/github-metrics/base.svg" alt="GitHub profile metrics" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="/github-metrics/languages.indepth.svg" alt="Languages activity" />
+    </td>
+    <td width="50%">
+      <img src="/github-metrics/stars.svg" alt="Recently starred repositories" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="/github-metrics/isocalendar.fullyear.svg" alt="Full-year commit calendar" />
+    </td>
+    <td width="50%">
+      <img src="/github-metrics/people.followers.svg" alt="Followers and following" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="/github-metrics/calendar.full.svg" alt="Full contribution calendar" />
+</div>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00C9A7,100:2F80ED"
+    alt="Profile Footer"
+  />
+</div>
