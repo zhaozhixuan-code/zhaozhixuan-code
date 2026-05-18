@@ -23,6 +23,12 @@
   </p>
 
   <p>
+    <img src="https://komarev.com/ghpvc/?username=zhaozhixuan-code&style=flat-square&color=2F80ED" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/zhaozhixuan-code?style=flat-square&color=00C9A7&label=Followers" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/Open%20Source-Learning%20in%20Public-FFD166?style=flat-square" alt="Learning in public" />
+  </p>
+
+  <p>
     <code>Spring Boot</code>
     <code>Spring Cloud Alibaba</code>
     <code>Spring AI</code>
@@ -74,6 +80,36 @@ I build practical systems around high-concurrency backend services, LLM applicat
   </tr>
 </table>
 
+## Focus Console
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Service Layer</strong>
+      <br />
+      Java, Spring Boot, Spring Cloud Alibaba, distributed backend design.
+    </td>
+    <td width="33%">
+      <strong>AI Layer</strong>
+      <br />
+      LangChain4j, Spring AI, RAG, Tool Calling, structured output.
+    </td>
+    <td width="33%">
+      <strong>Data Layer</strong>
+      <br />
+      MySQL, Redis, Caffeine, RabbitMQ, ShardingSphere.
+    </td>
+  </tr>
+</table>
+
+```text
+> boot profile
+  role        : Java Backend / AI Application Developer
+  mindset     : build useful systems, then make them reliable
+  current     : LLM applications, agent workflows, backend performance
+  toolchain   : Spring ecosystem, Redis, MySQL, Docker, AI-assisted coding
+```
+
 ## Tech Stack
 
 <div align="center">
@@ -113,6 +149,31 @@ I build practical systems around high-concurrency backend services, LLM applicat
     />
   </picture>
 
+</div>
+
+## GitHub Pulse
+
+<div align="center">
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=zhaozhixuan-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=zhaozhixuan-code&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub streak"
+  />
+
+</div>
+
+<div align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zhaozhixuan-code&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    alt="Contribution activity graph"
+  />
 </div>
 
 ## GitHub Metrics
